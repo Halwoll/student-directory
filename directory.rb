@@ -1,3 +1,5 @@
+student_count = 12
+
 puts "The students of VILLANS academy"
 puts "-------------"
 puts "Dr Hannibal Lecter"
@@ -12,3 +14,4 @@ puts "The Joker"
 puts "Joffrey Baratheon"
 puts "Norman Bates"
 puts "Baal"
+print "Overall, we have #{student_count} great students"
